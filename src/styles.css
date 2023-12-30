@@ -3,14 +3,12 @@ body {
   font-size: 18px;
 }
 
-
 .header {
-  height: 50px;
+  height: 49px;
   display: flex;
   justify-content: center;
   align-items: center;
   border-bottom: 1px solid black;
-}
 
 .footer {
   height: 49px;
@@ -23,3 +21,4 @@ body {
 .content {
   min-height: calc(100vh - 100px);
 }
+
