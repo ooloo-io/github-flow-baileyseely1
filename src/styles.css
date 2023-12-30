@@ -3,10 +3,19 @@ body {
   font-size: 18px;
 }
 
-header {
+
+.header {
   height: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
   border-bottom: 1px solid black;
+}
+
+.footer {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid black;
 }
