@@ -9,6 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   border-bottom: 1px solid black;
+}
 
 .footer {
   height: 49px;
@@ -19,10 +20,11 @@ body {
 }
 
 .content {
-  min-height: calc(100vh - 100px);
-  width: 720px;
-  margin: auto;
+  min-height: calc(100vh - 140px);
+  width: 760px;
   max-width: 100%;
+  margin: auto;
+  padding: 20px;
 }
 
 .section {
